@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Chopper\Desktop\vs2015\数据结构\串\串\源.cpp">
+    <ClCompile Include="C:\Users\Chopper\Desktop\vs2015\数据结构\链串\链串\源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
